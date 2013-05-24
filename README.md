@@ -1,7 +1,8 @@
-batchicon-viewer
-================
+Batch Icon Viewer
+=================
 
 View it live: http://batchicon-viewer.pagodabox.com/
+Batch Icon Website: http://adamwhitcroft.com/batch/
 
 Batch Icon Webfont Viewer
 
