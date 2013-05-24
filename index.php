@@ -39,7 +39,7 @@ array_multisort($values);
 
 <html>
 <head>
-  <title></title>
+  <title>Batch Icon Webfont Viewer - v1.3</title>
   <style>
 
 <?php ob_start(); ?>
