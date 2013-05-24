@@ -33,6 +33,7 @@ foreach(range(0, 179) as $n)
 }
 
 $values = array_unique($values);
+array_multisort($values);
 
 ?>
 
