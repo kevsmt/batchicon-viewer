@@ -56,8 +56,10 @@ array_multisort($values);
 
 .batch {
   font-family: "Batch";
-  line-height:1;
-  display:inline-block;
+  font-size: inherit;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
   -webkit-font-smoothing: antialiased;
 }
 
